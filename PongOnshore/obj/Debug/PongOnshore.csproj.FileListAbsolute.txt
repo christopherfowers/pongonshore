@@ -1,0 +1,17 @@
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\PongOnshore.dll.config
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\PongOnshore.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\PongOnshore.pdb
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.Helpers.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.Razor.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.WebPages.Deployment.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.WebPages.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.WebPages.Razor.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.Helpers.xml
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.Razor.xml
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.WebPages.xml
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.WebPages.Deployment.xml
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\bin\System.Web.WebPages.Razor.xml
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\obj\Debug\PongOnshore.csprojResolveAssemblyReference.cache
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\obj\Debug\PongOnshore.dll
+c:\users\gdc-50-admin\documents\visual studio 2013\Projects\PongOnshore\PongOnshore\obj\Debug\PongOnshore.pdb

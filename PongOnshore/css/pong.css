@@ -1,0 +1,48 @@
+﻿body{
+    background: #5C9A99;
+}
+
+#GameScreen {
+    background: #013668;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+    #GameScreen * {
+        position: absolute;
+    }
+
+.paddle {
+    height: 50px;
+    width: 10px;
+    border-radius: 5px;
+    background: #5C9A99;
+}
+
+.ball {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background: #FFFFFF;
+}
+
+.leftscore {
+    top: 0px;
+    left: 0px;
+}
+
+.rightscore {
+    top: 0px;
+    left: 450px;
+}
+
+.score {
+    color: #FFFFFF;
+    font-size: 100px;
+    opacity: .5;
+}
+
